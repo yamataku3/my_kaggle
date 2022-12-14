@@ -1,2 +1,2 @@
-# my_kaggle-
+# my_kaggle
 Kaggleの記録
