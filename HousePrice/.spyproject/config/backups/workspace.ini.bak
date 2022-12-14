@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['house_price.py', '..\\furAnimation\\python_for_experiment\\data_analysis-phi.py', 'G:\\.shortcut-targets-by-id\\0B7DH-rfIt2bCMXFNYnZORHdRSEE\\SugiuraLab\\Home\\Takumi Yamamoto\\3_FurAnimation\\Experiment\\SR5000-data\\result\\data_analysis-phi.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
